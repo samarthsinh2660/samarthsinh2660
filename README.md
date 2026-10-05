@@ -13,7 +13,7 @@
 
 ## 🔓 Open Source
 
-[![flutter_gemma](https://img.shields.io/badge/flutter__gemma-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://github.com/DenisovAV/flutter_gemma)
+[![flutter_edge_ai](https://img.shields.io/badge/flutter__gemma-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://github.com/DenisovAV/flutter_edge_ai)
 [![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)](https://github.com/webpack/webpack)
 [![Backstage](https://img.shields.io/badge/Backstage-9BF0E1?style=for-the-badge&logo=backstage&logoColor=black)](https://github.com/backstage/backstage)
 [![Webiu](https://img.shields.io/badge/Webiu-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/c2siorg/Webiu)
